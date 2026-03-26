@@ -1,0 +1,8 @@
+# Main file for AI Smart Parking System
+
+import cv2
+
+print("AI Smart Parking System Running...")
+
+# Example placeholder
+# Add your actual project logic here
